@@ -1,0 +1,14 @@
+2019-08-17 09:55:38.319  INFO 10164 --- [restartedMain] com.xzj.csdn.CsdnApplication             : Starting CsdnApplication on LAPTOP-LFIVDQQD with PID 10164 (D:\workspace_idea\csdn\target\classes started by 徐志军 in D:\workspace_idea\csdn)
+2019-08-17 09:55:38.320  INFO 10164 --- [restartedMain] com.xzj.csdn.CsdnApplication             : No active profile set, falling back to default profiles: default
+2019-08-17 09:55:39.644  INFO 10164 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2019-08-17 09:55:39.647  INFO 10164 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-08-17 09:55:39.648  INFO 10164 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.21]
+2019-08-17 09:55:39.698  INFO 10164 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-08-17 09:55:39.699  INFO 10164 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 1376 ms
+2019-08-17 09:55:40.580  INFO 10164 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-08-17 09:55:40.667  INFO 10164 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2019-08-17 09:55:40.901  INFO 10164 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2019-08-17 09:55:40.943  INFO 10164 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2019-08-17 09:55:40.943  INFO 10164 --- [restartedMain] com.xzj.csdn.CsdnApplication             : Started CsdnApplication in 2.749 seconds (JVM running for 799.067)
+2019-08-17 09:55:40.948  INFO 10164 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2019-08-17 09:55:45.024  INFO 10164 --- [Thread-41] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
